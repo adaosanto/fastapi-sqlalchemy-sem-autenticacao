@@ -1,0 +1,1 @@
+# fastapi-sqlalchemy-sem-autenticacao
